@@ -1,4 +1,4 @@
-#Задачи по HTML (без использования стилей) с сайта  [itmathrepetitor.ru](http://www.itmathrepetitor.ru/zadachi-po-html-i-css/)
+# Задачи по HTML (без использования стилей) с сайта  [itmathrepetitor.ru](http://www.itmathrepetitor.ru/zadachi-po-html-i-css/)
 
 1. Задача: ["Только день не повторится..."](http://www.itmathrepetitor.ru/zadachi-po-html-i-css-zadacha-1-tolko-den-ne-po/)
 2. Задача: ["Заповедь"](http://www.itmathrepetitor.ru/zadachi-po-html-i-css-zadacha-2-zapoved/)
